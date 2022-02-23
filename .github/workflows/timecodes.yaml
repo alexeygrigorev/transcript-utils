@@ -1,0 +1,12 @@
+name: timecodes
+on:
+  push:
+    paths:
+      - 'docs/*.docx'
+jobs:
+  generate-timecodes-from-docx:
+    runs-on: "ubuntu-latest"
+    steps:
+      - run: pip3 install python-docx
+      - run: python3 transcript_action.py HEAD
+      - run: git add transcripts/ && git commit -m 'timecodes' && git push

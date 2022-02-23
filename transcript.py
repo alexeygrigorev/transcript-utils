@@ -146,13 +146,11 @@ def extract_timecodes(elements):
     return timecodes
 
 
-def print_timecodes(input_file):
+def print_timecodes(input_file, output_file):
     elements = read_docx(input_file)
     timecodes = extract_timecodes(elements)
-    print('\n'.join(timecodes))
-
-
-if __name__ == '__main__':
-    import sys
-    input_file = sys.argv[1]
-    print_timecodes(input_file)
+    
+    with open(output_file, 'w') as f_out:
+        for line in timecodes:
+            f_out.write(line)
+            f_out.write('\n')
