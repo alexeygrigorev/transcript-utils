@@ -1,7 +1,5 @@
 ## Transcript Utils
 
-Transcript yamlifier and timecode extractor
-
-```bash
-docker build -t yamlifier .
-```
+* Upload a docx file to `docs` 
+* Wait 
+* Get the timecodes in `transcripts`!
