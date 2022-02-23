@@ -1,0 +1,13 @@
+00:00 DataTalks.Club intro
+01:25 Jakob’s background
+08:13 The importance of A/B tests
+12:44 Statistical noise
+14:27 A/B test example
+18:06 A/B tests vs expert opinion
+23:54 Traffic splitting, A/A tests, and designing experiments
+33:23 Noisy vs stable metrics – test duration and business cycles
+37:44 Z-tests, T-tests, and time series
+46:23 A/B test crash course advice
+51:55 Frequentist approach vs Bayesian approach
+59:08 A/B/C/D tests
+1:02:52 Pizza dough and finding Jakob online
