@@ -9,6 +9,8 @@ jobs:
     steps:
       - run: pip3 install python-docx
       - uses: actions/checkout@v2
+      - run: ls
+      # - run: mkdir -f transcripts
       - id: files
         uses: jitterbit/get-changed-files@v1
       - run: |

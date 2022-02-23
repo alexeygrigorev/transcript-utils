@@ -149,7 +149,7 @@ def extract_timecodes(elements):
 def print_timecodes(input_file, output_file):
     elements = read_docx(input_file)
     timecodes = extract_timecodes(elements)
-    
+
     with open(output_file, 'w') as f_out:
         for line in timecodes:
             f_out.write(line)

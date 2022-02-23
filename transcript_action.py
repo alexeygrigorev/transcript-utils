@@ -2,7 +2,6 @@
 # coding: utf-8
 
 import sys
-import subprocess
 
 from transcript import print_timecodes
 
