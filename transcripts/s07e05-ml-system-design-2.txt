@@ -1,0 +1,13 @@
+00:00 DataTalks.Club intro
+03:06 Valerii’s background
+09:12 Who goes through an ML system design interview
+13:36 System design VS ML System design
+33:31 Preparing for ML system design interviews
+37:59 Machine learning project checklist
+40:11 The importance of defining a goal and ways of measuring it
+44:01 What to do after you set a goal
+47:52 Typical components of an ML system
+50:57 Applying ML systems to real-world problems
+54:07 System design and coding in interviews for new graduates
+57:23 Humans in the validation of model performance
+1:00:03 Finding Valerii online
