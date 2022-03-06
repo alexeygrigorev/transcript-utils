@@ -1,0 +1,19 @@
+00:00 DataTalks.Club intro
+01:56 Rahul’s background
+04:52 What do data engineering managers do and why do we need them?
+09:05 Balancing engineering and management
+11:09 Rahul’s transition into data engineering management
+14:54 The importance of updating your skill set
+16:32 Planning the transition to manager and other challenges
+22:55 Setting expectations for the team and measuring success
+28:04 Data reconciliation
+29:01 GDPR compliance
+30:50 Data modeling for Big Data
+33:39 Advice for people transitioning into data engineering management
+35:38 Staying on top of trends and enabling team members
+38:36 The qualities of a good data engineering team
+41:00 The qualities of a good data engineer candidate (interview advice)
+49:35 The difference between having knowledge and stuffing a CV with buzzwords
+54:34 Advice for students and fresh graduates
+57:29 An overview of an end-to-end data engineering process
+59:59 Finding Rahul online
