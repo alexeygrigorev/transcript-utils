@@ -7,10 +7,8 @@ jobs:
   generate-timecodes-from-docx:
     runs-on: "ubuntu-latest"
     steps:
-      - run: pip3 install python-docx
+      - run: pip3 install python-docx PyYAML
       - uses: actions/checkout@v2
-      - run: ls
-      # - run: mkdir -f transcripts
       - id: files
         uses: jitterbit/get-changed-files@v1
       - run: |

@@ -6,6 +6,7 @@ import re
 from io import BytesIO
 from urllib import request
 
+import yaml
 import docx
 
 
@@ -123,7 +124,6 @@ def read_docx_base64(input_file):
 
 
 def extract_timecodes(elements):
-    
     timecodes = [
         '00:00 DataTalks.Club intro'
     ]
@@ -146,11 +146,18 @@ def extract_timecodes(elements):
     return timecodes
 
 
-def print_timecodes(input_file, output_file):
+def process_trascript(input_file, output_file_timecodes,
+        output_file_transcript):
     elements = read_docx(input_file)
+
+    print(f'writing transcript to {output_file_transcript}...')
+    with open(output_file_transcript, 'w', encoding='utf-8') as f_out:
+        yaml.dump({'transcript': elements}, f_out)
+
     timecodes = extract_timecodes(elements)
 
-    with open(output_file, 'w') as f_out:
+    print(f'writing timecodes to {output_file_timecodes}...')
+    with open(output_file_timecodes, 'w', encoding='utf-8') as f_out:
         for line in timecodes:
             f_out.write(line)
             f_out.write('\n')
