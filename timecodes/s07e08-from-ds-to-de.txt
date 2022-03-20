@@ -1,0 +1,17 @@
+00:00 DataTalks.Club intro
+01:51 Ellen’s background
+06:32 Why Ellen switched from data science to data engineering
+09:41 The overlap between data science and data engineering
+15:02 Skills to learn and improve for data engineering
+19:36 Ways to pick up and improve skills (advice for making the transition)
+26:20 What makes a data engineering course “good”
+28:54 Languages to know for data engineering
+32:43 The easiest part of transitioning into data engineering
+35:23 The hardest part of transitioning into data engineering
+38:20 Common data engineering team distributions
+39:30 People who are both data scientists and data engineers
+41:29 Pet projects and other ways to pick up development skills
+49:22 Dealing with cloud processing costs (alerts, billing reports, trial periods)
+52:46 Advice for getting into entry level positions
+58:36 Which cloud platform should data engineers learn?
+1:00:21 Finding Ellen online
