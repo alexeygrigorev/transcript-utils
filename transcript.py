@@ -10,10 +10,15 @@ import yaml
 import docx
 
 
-def clean_line(line):
-    line = line.strip()
-    line = line.strip('\uFEFF')
-    return line
+def clean_line(long_line):
+    lines = []
+    
+    for line in long_line.split('\n'):
+        line = line.strip()
+        line = line.strip('\uFEFF')
+        lines.append(line)
+
+    return lines
 
 
 ts_two_digit_pattern = re.compile(r'^\[?(\d+):(\d+)\]?$')
@@ -62,49 +67,47 @@ def parse_doc(doc):
 
     elements = []
 
-    paragraphs = doc.paragraphs
-
-
-    for i, p in enumerate(paragraphs):
+    for p in doc.paragraphs:
         style = p.style.name.lower()
-        line = clean_line(p.text)
+        lines = clean_line(p.text)
 
-        if len(line) == 0:
-            continue
+        for line in lines:
+            if len(line) == 0:
+                continue
 
-        if style.startswith('heading'):
+            if style.startswith('heading'):
+                element = {
+                    'header': line
+                }
+                elements.append(element)
+                continue
+
+            assert style == 'normal'
+
+            if after_time == True:
+                after_time = False
+                speaker = line
+                continue
+
+            maybe_time = try_parse_time(line)
+
+            if maybe_time is not None:
+                h, m, s = maybe_time
+                total_sec = h * 60 * 60 + m * 60 + s
+                after_time = True
+                continue
+
+            assert speaker is not None
+            assert total_sec is not None
+
             element = {
-                'header': line
+                'time': format_time(h, m, s),
+                'sec': total_sec,
+                'who': speaker,
+                'line': line
             }
+
             elements.append(element)
-            continue
-
-        assert style == 'normal'
-
-        if after_time == True:
-            after_time = False
-            speaker = line
-            continue
-
-        maybe_time = try_parse_time(line)
-
-        if maybe_time is not None:
-            h, m, s = maybe_time
-            total_sec = h * 60 * 60 + m * 60 + s
-            after_time = True
-            continue
-
-        assert speaker is not None
-        assert total_sec is not None
-
-        element = {
-            'time': format_time(h, m, s),
-            'sec': total_sec,
-            'who': speaker,
-            'line': line
-        }
-
-        elements.append(element)
 
     return elements
 
