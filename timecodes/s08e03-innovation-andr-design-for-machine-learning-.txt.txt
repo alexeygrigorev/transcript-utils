@@ -1,0 +1,17 @@
+00:00 DataTalks.Club intro
+01:18 Liesbeth’s background
+05:07 What is design?
+09:25 The importance of interaction in design
+12:12 Design as a process (Double Diamond technique)
+18:21 How long does it take to go from an idea to finishing the second diamond?
+20:17 Design thinking (Google’s PAIR)
+23:16 What is a Design Sprint and who should participate in it?
+28:18 Why should data specialists care about design?
+31:04 Challenging your task-giver (asking “why”)
+32:51 How to avoid the “Chinese whisper game” (reiterating the problem)
+36:55 Defining the roadmap for data science teams
+39:13 What is innovation?
+45:13 Bringing innovation to your management
+49:16 Task force-team approach to solving problems
+53:33 Innovation, resource management issues, and using data to back your ideas
+58:20 Words of advice for those interested in design and innovation
