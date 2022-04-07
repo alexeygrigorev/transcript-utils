@@ -1,0 +1,16 @@
+00:00 DataTalks.Club intro
+00:38 Stefan’s background
+06:07 Applications of machine learning in healthcare
+10:02 Sidekick Health – gamified therapeutics
+18:39 How is working for King different from Sidekick Health?
+24:15 The rewards systems in gamified apps
+26:53 The importance of building a strong foundation for a data science team
+30:08 The challenges of building an app in the healthcare industry
+33:56 Dealing with ethics issues
+35:39 Sidekick Health’s personalized recommendations and content
+41:13 The importance of having the right approach in A/B tests (strong analytics and good data)
+47:33 The importance of having domain knowledge to work as a data professional in the healthcare industry
+48:41 Making a data-driven company
+51:28 Risks for Sidekick Health
+53:21 Sidekick Health growth strategy
+55:03 Using AI to help people live better lives
