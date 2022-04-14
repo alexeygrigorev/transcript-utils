@@ -1,0 +1,16 @@
+00:00 DataTalks.Club intro
+01:50 Christopher’s background
+06:42 The essence of DataOps
+13:05 Also known as Agile Analytics Operations or DevOps for Data Science
+19:56 Defining processes and automating them (defining “done” and “good”)
+24:41 The balance between heroism and fear (avoiding deferred value)
+27:42 The Lean approach
+31:23 Avoiding silos
+33:47 The 7 steps to DataOps
+38:01 Wanting to become replaceable
+43:06 DataOps is doable
+48:25 Testing tools
+50:42 DataOps vs MLOps
+53:33 The Head Chef at Data Kitchen
+56:32 What’s grilling at Data Kitchen?
+1:00:27 The DataOps Cookbook
