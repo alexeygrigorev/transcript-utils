@@ -1,0 +1,16 @@
+00:00 DataTalks.Club intro
+01:15 Nicolas’ background
+04:33 The tech talent market in different countries
+06:59 Hiring data scientists vs data engineers
+13:14 A spike in interest for data engineering roles
+16:00 The importance of recruiters having  technical knowledge
+18:47 The main challenges of hiring data engineers
+22:55 The difference in hiring junior, mid, and senior level data engineers
+30:39 Things recruiters look for in people who switch to a data engineering role
+39:41 The importance of knowing cloud tools
+41:50 The importance of knowing infrastructure tools
+44:35 Preparing for the interview
+50:45 The importance of a formal education
+54:25 The importance having a project portfolio
+58:05 How your current domain influence the interview
+59:25 Conclusion
