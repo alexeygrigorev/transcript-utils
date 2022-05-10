@@ -1,0 +1,22 @@
+00:00 DataTalks.Club intro
+01:36 Jeff’s background
+03:47 Getting feedback to become a better teacher
+06:13 Going from engineering to teaching
+08:35 Jeff on becoming a curriculum writer
+11:44 Creating a curriculum that reinforces learning
+16:37 Jeff on starting his own data engineering bootcamp
+21:17 Shifting from teaching ML and data science to teaching data engineering
+26:40 Making sure that students get hired
+30:04 Screening bootcamp applicants
+32:31 Knowing when it’s time to apply for jobs
+36:18 The curriculum of JigsawLabs.io
+37:41 The market demand of Spark, Kafka, and Kubernetes (or lack thereof)
+40:42 Advice for data analysts that want to move into data engineering
+43:03 The market demand of ETL/ELT and DBT (or lack thereof)
+44:21 The importance of Python, SQL, and data modeling for data engineering roles
+47:46 Interview expectations
+49:52 How to get started in teaching
+54:54 The challenges of being a one-person company
+56:46 Teaching fundamentals vs the “shiny new stuff”
+59:31 JigsawLabs.io
+1:00:21 Finding Jeff online
