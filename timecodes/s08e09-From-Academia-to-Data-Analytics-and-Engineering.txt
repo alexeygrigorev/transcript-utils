@@ -1,0 +1,21 @@
+00:00 DataTalks.Club intro
+02:34 Gloria’s background
+06:33 Working with MATLAB, R, C, Python, and SQL
+07:46 Working at ICE
+16:14 Job hunting after the bootcamp
+19:18 Data engineering vs Data science
+21:25 Using Docker
+22:57 Keeping track of job applications, employers and questions
+27:55 Challenges during the job search and transition
+30:19 Concerns over data privacy
+31:29 Challenges with salary negotiation
+34:27 The importance of career coaching and support
+36:20 Skills learned at Spiced
+37:25 Retrospective on Gloria’s transition to data and advice
+42:22 Top skills that helped Gloria get the job
+45:29 Thoughts on cloud platforms
+47:33 Thoughts on bootcamps and courses
+50:15 Spiced graduation project
+51:42 Standing out in a sea of applicants
+56:48 The cohorts at Spiced
+59:02 Conclusion
