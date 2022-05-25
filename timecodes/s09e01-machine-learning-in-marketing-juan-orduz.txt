@@ -1,0 +1,19 @@
+00:00 DataTalks.Club intro
+02:08 Juan’s background
+07:31 Typical problems in marketing that are solved with ML
+10:18 Attribution model
+13:03 Media Mix Model – detecting uplift and channel saturation
+20:49 Changes to privacy regulations and its effect on user tracking
+23:04 User retention and churn prevention
+30:45 A/B testing to detect uplift
+35:15 Statistical approach vs machine learning (setting a benchmark)
+37:05 Does retraining MMM models often improve efficiency?
+38:11 Attribution model baselines
+39:41 Choosing a decay rate for channels (Bayesian linear regression)
+40:46 Learning resource suggestions
+42:06 Bayesian approach vs Frequentist approach
+48:06 Suggestions for creating a marketing department
+55:12 Most challenging problems in marketing
+57:02 The importance of knowing marketing domain knowledge for data scientists
+58:48 Juan’s blog and other learning resources
+1:00:22 Finding Juan online
