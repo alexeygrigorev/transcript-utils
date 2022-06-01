@@ -1,0 +1,15 @@
+00:00 DataTalks.Club intro
+01:51 Daynan’s background
+04:52 Astronomy vs cosmology
+06:03 Applications of data science and machine learning in astronomy
+07:20 Determining signal vs noise
+12:45 What the data looks like in astronomy
+16:44 Determining the features of an object in space
+22:00 Ground truth for space objects
+25:42 Why water is an important resource in the space economy
+30:18 Other useful resources that can be found in asteroids
+32:12 Sources of asteroids
+38:13 The data team at an asteroid mining company
+45:26 Open datasets for hobbyists
+50:54 Mission and hardware design for asteroid mining
+55:23 Partnerships and hires
