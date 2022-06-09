@@ -1,0 +1,21 @@
+00:00 DataTalks.Club intro
+00:36 Summary of “Getting a Data Engineering Job” webinar
+01:49 Python and engineering skills
+03:45 Interview process
+05:15 Behavioral interviews
+07:46 Technical interviews
+11:24 Learning Python and SQL from scratch
+16:48 Is having non-coding experience a disadvantage?
+19:57 Analyst or engineer?
+21:56 Do you need certificates?
+23:13 Do I need a master’s degree?
+27:46 Fully remote data engineering jobs
+30:06 Should I include teaching on my resume?
+32:22 Object-oriented programming for data engineering
+33:03 Python vs Java/Scala
+35:09 SQL and Python technical interview questions
+37:49 GCP certificates
+39:49 Is commercial experience really necessary?
+43:31 From sales to engineering
+46:16 Solution engineers
+47:26 Wrapping up
