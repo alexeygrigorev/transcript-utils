@@ -1,0 +1,18 @@
+00:00 DataTalks.Club intro
+01:57 Misra’s background
+06:29 What data scientists do
+10:58 Consultant data scientists vs in-house data scientists (and freelancers)
+14:09 Expectations for data scientists
+15:43 The importance of keeping up to date with AI developments (FOMA)
+20:21 How does DALL·E 2 work and should you care?
+27:39 Going to conferences to stay up to date
+30:11 The most pressing issue for data scientists
+35:31 Fighting FOMA and imposter syndrome
+40:12 Knowing when you have enough knowledge on a framework
+42:47 The “best” type of data scientist
+47:33 Being a generalist vs a specialist
+50:32 Advice for entry-level data entering an oversaturated market
+54:31 Catching the eye of big AI companies
+57:09 Choosing a project for your portfolio
+1:01:42 The importance of having a PhD or Master’s degree in data science
+1:04:28 Finding Misra online
