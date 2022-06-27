@@ -1,0 +1,15 @@
+00:00 DataTalks.Club intro
+02:02 Merve’s background
+06:30 Merve’s first contributions to open source
+12:27 What Merve currently does at Hugging Face (Hub, Spaces)
+18:07 What is means to be a developer advocacy engineer at Hugging Face
+25:04 The best way to get open source experience (Google Summer of Code, Hacktoberfest, and sprints)
+30:02 The peculiarities of hiring as it relates to code contributions
+38:02 Best resources to learn about NLP besides Hugging Face
+43:01 Good first projects for NLP
+46:19 The most important topics in NLP right now
+49:23 NLP ML Engineer vs NLP Data Scientist
+51:12 Project recommendations and other advice to catch the eye of recruiters
+55:49 Merve on Twitch and her podcast
+57:42 Finding Merve online
+58:14 Merve and Mario Kart
