@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+import os
 import sys
 
 from transcript import process_trascript
@@ -9,6 +10,10 @@ def main(input_file):
     if not input_file.endswith('.docx'):
         print('not a docx file')
         return 
+
+    if not os.path.exists(input_file):
+        print(f'the file {input_file} no longer exists')
+        return
 
     output_file_timecodes = input_file \
         .replace('docs/', 'timecodes/') \
