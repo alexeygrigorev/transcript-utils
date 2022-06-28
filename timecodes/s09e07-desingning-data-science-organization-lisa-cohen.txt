@@ -1,0 +1,21 @@
+00:00 DataTalks.Club intro
+01:42 Lisa’s background
+06:27 Centralized org vs decentralized org
+10:41 Hybrid org (centralized/decentralized)
+15:26 Reporting your results in a data organization
+18:43 Planning in a data organization
+21:58 Having all the moving parts work towards the same goals
+24:53 Which approach Twitter follows (centralized vs decentralized)
+25:48 Pros and cons of a decentralized approach
+29:25 Pros and cons of a centralized approach
+30:52 Finding a common language with all the functions of an org
+33:08 Finding the right approach for companies that want to implement data science
+36:49 How many data scientists does a company need?
+42:19 Who do data scientists report huge findings to?
+46:09 The importance of partnering closely with other functions of the org
+47:20 The role of Product Managers in the org and across functions
+50:44 Who does analytics at Twitter (analysts vs data scientists)
+52:30 The importance of goals, objectives and key results
+54:16 Conflicting objectives
+57:31 The importance of research
+59:38 Finding Lisa online
