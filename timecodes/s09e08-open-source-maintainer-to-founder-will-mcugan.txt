@@ -1,0 +1,14 @@
+00:00 DataTalks.Club intro
+01:57 Will’s background
+04:10 Will’s open source projects
+09:35 S3Fs and PyFile systems
+11:29 Inspiration for open source projects
+15:07 Will as a freelancer
+19:26 Starting a company from a tweet (Rich and Textual)
+31:40 Building in public (Will’s approach to social media)
+37:18 The workforce and roadmap of Textualize.io
+44:38 The importance of working on open source for Textualize employees
+46:00 The workflow of and contributions to Textualize
+50:05 Getting your first thousand GitHub Stars (going viral)
+57:20 Suggestions for those who wish to start in the open source space
+59:31 Finding Will online
