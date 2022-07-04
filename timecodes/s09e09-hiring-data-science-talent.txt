@@ -1,0 +1,16 @@
+00:00 DataTalks.Club intro
+02:17 Olga’s career journey
+10:38 Hiring data scientists now vs 7 years ago
+14:49 The two qualities of an excellent data scientist
+20:16 What makes Alexey do this podcast
+23:01 How Alexey get the latest information on data science
+25:21 How Olga checks a candidate’s technical skills
+28:48 How to make an answer stand out (showing your depth of knowledge)
+32:32 A strong mathematical background vs a strong engineering background
+37:44 When Auto ML will replace the need to have data scientists
+42:09 Should data scientists transition into management? (the importance of communication in an organization)
+45:37 Switching from a data analyst role to a data scientist
+47:06 Attracting female talent in data science
+55:13 Changing a job description to find talent
+56:31 Long gaps in the CV
+58:52 Eierlegende Wollmilchsau
