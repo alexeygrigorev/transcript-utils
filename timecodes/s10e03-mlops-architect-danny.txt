@@ -1,0 +1,18 @@
+00:00 DataTalks.Club intro
+03:12 Danny’s background
+08:11 What an MLOps Architect does
+12:50 The popularity of MLOps Architect as a role
+15:35 Convincing an employer that you can wear many different hats
+18:21 Interviewing for the role of an MLOps Architect
+25:04 How Danny prioritizes work with data scientists
+28:59 Coming to WhyLabs when you’ve already got something in production vs nothing in production
+30:39 Market awareness regarding the importance of model monitoring
+34:25 How Danny (WhyLabs) chooses tools
+38:01 ONNX
+39:10 Common trends in tooling setups
+40:49 The most rewarding thing for Danny in ML and data science
+42:26 Danny’s secret for staying sane while wearing so many different hats
+44:46 T-shaped specialist, E-shaped specialist, and the horizontal line
+50:00 The importance of background for the role of an MLOps Architect
+55:17 Key differences for WhyLogs free vs paid
+58:07 Conclusion and where to find Danny online
