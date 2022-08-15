@@ -1,0 +1,14 @@
+00:00 DataTalks.Club intro
+03:08 Alexander’s background
+06:50 The role of Partner at Königsweg
+08:50 Being part of the data and AI community
+11:13 How Alexander became chair at PyData
+16:31 Alexander’s many talks and advice on giving them
+23:48 Explaining AI to managers
+27:53 Why being able to explain machine learning to managers is important
+36:50 The experimentational nature of AI and why it’s not a cure-all
+42:00 Innovation requires patience
+48:54 Convincing managers not to use AI or ML when there are better (simpler) solutions
+53:27 The role of MLOps in enterprises
+58:26 Thinking about the mid- and long-term when considering solutions
+1:01:07 Finding Alexander online
