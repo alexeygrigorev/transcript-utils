@@ -1,0 +1,16 @@
+00:00 DataTalks.Club intro
+02:35 Mehdi’s background
+05:41 The difference between startup, scale-up and enterprise
+10:21 Hypergrowth
+12:30 Data platform engineers in a scale-up environment
+17:22 What a data platform is and who builds it
+27:05 Managing the fast pace of a scale-up while ensuring personal growth
+35:05 Should a senior data person consider a scale-up or an enterprise?
+39:02 Should a junior data person consider a scale-up or an enterprise?
+40:51 Sourcing talent for hyper-growth companies and developing a community culture
+46:44 Generating content and getting feedback
+50:17 Generalization vs specialization for data engineers in a scale-up
+52:55 The ratio of work between platform building and use case pipelines
+54:31 Being proactive in order to progress to mid or senior level
+56:34 Caps and bass guitars
+57:48 MehdiO DataTV and DataCreators.Club (Mehdi’s YouTube Channel and podcast)
