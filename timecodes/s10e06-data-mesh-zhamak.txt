@@ -1,0 +1,12 @@
+00:00 DataTalks.Club intro
+02:39 Zhamak’s background
+09:49 What is Data Mesh?
+16:34 Domain ownership
+25:26 Determining what to optimize for with Data Mesh
+32:04 Decentralization
+34:36 Data as a product
+41:58 Self-serve data platforms
+49:13 Data governance
+54:20 Understanding Data Mesh
+57:11 Adopting Data Mesh
+59:51 Resources on implementing Data Mesh
