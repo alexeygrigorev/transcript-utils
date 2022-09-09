@@ -1,0 +1,17 @@
+00:00 DataTalks.Club intro
+02:33 Christiaan’s background
+06:51 Usual ways of collecting and curating data
+17:26 Getting the buy-in from experts and executives
+18:08 Starting an annotation booklet
+20:57 Pre-labeling
+23:05 Dataset collection
+29:28 Human level baseline and feedback
+34:33 Using the annotation booklet to boost annotation productivity
+36:37 Putting yourself in the shoes of annotators (and measuring performance)
+42:51 Active learning
+44:50 Distance supervision
+47:45 Weak labeling
+52:34 Dataset collection in career positioning and project portfolios
+57:18 IPython widgets
+58:26 GDPR compliance and non-English NLP
+1:03:40 Finding Christiaan online
