@@ -1,0 +1,23 @@
+00:00 DataTalks.Club intro
+02:14 Supreet’s background
+04:43 Responsible AI
+06:42 Example of explainable AI
+08:20 Responsible AI vs explainable AI
+10:30 Explainable AI tools and frameworks (glass box approach)
+12:48 Checking for bias in data and handling personal data
+17:20 Understanding whether your company needs certain type of data
+18:27 Data quality checks and automation
+24:22 Responsibility vs profitability
+30:48 The human touch in AI
+32:29 The trade-off between model complexity and explainability
+35:28 Is completely automated AI out of the question?
+37:31 Detecting model drift and overfitting
+42:39 How Supreet became interested in explainable AI
+44:07 Trustworthy AI
+46:51 Reliability vs fairness
+49:16 Bias indicators
+50:17 The future of explainable AI
+52:08 About DataBuzz
+53:50 The diversity of data science roles
+56:44 Ethics in data science
+59:27 Conclusion
