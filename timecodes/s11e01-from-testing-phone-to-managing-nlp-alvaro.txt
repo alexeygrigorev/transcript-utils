@@ -1,0 +1,18 @@
+00:00 DataTalks.Club intro
+02:05 Alvaro’s background
+03:41 Working as a QA (Quality Assurance) engineer
+08:35 Transitioning from QA to Machine Learning
+13:42 Gathering knowledge about ML field
+17:57 Searching for an ML job (improving soft skills and CV)
+22:38 Data science interview skills
+24:57 Zoomcamp projects
+27:16 Zoomcamp project deployment
+28:52 How to not undersell yourself during interviews
+31:38 Alvaro’s experience with interviews during his transition
+35:02 Alvaro’s Zoomcamp notes
+43:33 Alvaro’s coach
+47:39 The importance of mathematical knowledge to a transition into ML
+49:32 Preparing for technical interviews
+51:53 Alvaro’s typical workday
+54:12 Alvaro’s team’s tech stack
+56:11 The importance of a technical background to transitioning into ML
