@@ -1,0 +1,16 @@
+00:00 DataTalks.Club intro
+02:27 Katie’s background
+07:08 What is a data scientist?
+08:33 What is a data science manager?
+11:58 Quality of the craft
+15:12 How data leaders promote career growth
+18:50 Supporting senior data professionals
+25:54 Choosing the IC route vs the management route
+30:10 Managing junior data professionals
+34:16 Talking to senior stakeholders and PMs as a junior
+40:12 The importance of hiring juniors
+44:39 What skills do data scientist managers need to get hired?
+50:21 How juniors that are just starting out can set themselves apart from the competition
+54:11 Asking senior colleagues for help and the rubber duck channel
+56:20 The challenges of the head of data
+58:55 Conclusion
