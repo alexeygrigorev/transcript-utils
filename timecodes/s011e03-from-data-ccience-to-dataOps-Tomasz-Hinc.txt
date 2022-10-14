@@ -1,0 +1,15 @@
+00:00 DataTalks.Club intro
+02:25 Tomasz’s background
+06:34 What Tomasz did before DataOps (Data Science)
+14:12 Why Tomasz made the transition from Data science to DataOps
+18:59 What is DataOps?
+20:56 How is DataOps related to infrastructure?
+29:34 How Tomasz learned the skills necessary to become DataOps
+35:55 Becoming comfortable with terminal
+40:44 The overlap between DataOps and Data Engineering
+44:23 Suitable/useful skills for DataOps
+47:55 Minimal operational skills for DataOps
+54:37 Similarities between DataOps and Data Science Managers
+58:26 Tomasz’s interesting projects
+1:02:28 Confidence in results and avoiding going too deep with edge cases
+1:05:41 Conclusion
