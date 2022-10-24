@@ -1,0 +1,14 @@
+00:00 DataTalks.Club intro
+00:53 Audience Poll
+03:16 Andrey’s background
+11:22 What data science practice is
+13:46 Best DS practice in a traditional company vs IT-centric companies
+18:13 Getting started with building data science practice (finding out who you report to)
+28:19 Who the initiative comes from
+31:02 Finding out what kind of problems you will be solving (Centralized approach)
+46:04 Moving to a semi-decentralized approach
+51:47 Resources to learn about data science practice
+52:39 Pivoting from the role of a software engineer to data scientist
+56:44 The most impactful realization from data science practice
+59:44 Advice for individual growth
+1:01:33 Finding Andrey online
