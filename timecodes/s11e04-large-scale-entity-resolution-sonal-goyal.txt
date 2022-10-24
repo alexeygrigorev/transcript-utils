@@ -1,0 +1,25 @@
+00:00 DataTalks.Club intro
+02:06 Sonal’s background
+02:58 How the idea for Zingg came about
+05:43 What Zingg is
+07:14 The difference between entity resolution and identity resolution
+07:52 How duplicate detection relates to entity resolution
+09:08 How Sonal decided to start working on Zingg
+14:02 How Zingg works
+18:13 What Zingg runs on
+21:51 Switching from consultancy to working on a new open source solution
+24:14 Why Zingg is open source
+28:41 Open source licensing
+32:00 Working on Zingg initially vs now
+35:14 Zingg’s current and future team
+37:21 Sonal’s biggest current challenge
+38:43 Avoiding problems with entity/identity resolution through database design
+40:36 Identity resolution vs basic joins, data fusions, and fuzzy joins
+44:25 Deterministic matching vs probabilistic machine learning
+45:50 Identity and entity resolution applications for fraud detection
+49:23 Graph algorithms vs classic ML in entity resolution
+51:39 Identity resolution success stories
+54:11 What Sonal would do differently given the chance to start over with Zingg
+56:07 Advice for those seeking to realize their own solution to a data problem
+59:26 Reading suggestion from Sonal
+1:00:38 Conclusion
