@@ -1,0 +1,17 @@
+00:00 DataTalks.Club intro
+01:32 About Anna and METRO
+04:49 Anna’s background
+13:50 The importance of a technical background for data product owners
+15:11 What are product owners?
+20:34 Product owners vs product managers
+22:08 Anna’s work on recommender systems at METRO
+30:01 Expanding the data team
+34:53 Types of algorithms used for recommender systems
+35:55 What kind of knowledge and skills data product owners need to have
+41:34 METRO’s markdown system
+44:48 Problems and ideas should come from the business
+45:57 How Anna handles all her responsibilities
+48:44 The process for starting work on new domains
+53:09 Product portfolio management
+54:21 ProductTank and Anna’s role in it
+57:48 Anna’s resource recommendations
