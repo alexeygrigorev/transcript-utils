@@ -1,0 +1,18 @@
+00:00 DataTalks.Club intro
+00:32 Nikola’s background
+07:04 Making the first steps towards a transition to BI and Analytics Engineering
+10:42 Learning the skills necessary to transition to Analytics Engineering
+12:29 The in-between period – from Marketing to Analytics Engineering
+14:14 Nikola’s current responsibilities
+18:34 Understanding what a Data Model is
+20:34 Tools needed to work as an Analytics Engineer
+25:06 The Analytics Engineering role over time
+28:40 The importance of DBT for Analytics Engineers
+33:46 Where can one learn about data modeling theory?
+35:27 Going from Ancient Greek and Latin to understanding Data (Just-In-Time Learning)
+39:30 The importance of having domain knowledge to analytics engineering
+41:31 Suggestion for those wishing to transition into analytics engineering
+45:09 The importance of having a mentor when transitioning
+50:23 Finding a mentor
+52:10 Helpful newsletters and blogs
+53:46 Finding Nikola online
