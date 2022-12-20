@@ -1,0 +1,19 @@
+00:00 DataTalks.Club intro
+01:49 Marysia’s background
+05:24 What data-centric AI is
+11:58 Data-centric Kaggle competitions
+18:46 The mindset shift to data-centric AI
+22:25 Data-centric does not mean you should not iterate on models
+23:02 How to implement the data-centric approach
+29:02 Focusing on the data vs focusing on the model
+31:34 Resources to help implement the data-centric approach
+34:42 Data-centric AI vs standard data cleaning
+36:04 Making sure your data is representative
+41:47 Knowing when your data is good enough
+44:13 The importance of user feedback
+46:52 “Shadow Mode” deployment
+49:09 What to do if you have a lot of bad data or incomplete data
+50:56 Marysia’s role at PyData
+53:08 How Marysia joined PyData
+56:01 The difference between PyData and PyCon
+58:24 Finding Marysia online
