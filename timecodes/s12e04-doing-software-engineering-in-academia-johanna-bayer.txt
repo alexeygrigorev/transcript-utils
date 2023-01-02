@@ -1,0 +1,20 @@
+00:00 DataTalks.Club intro
+02:24 Johanna’s background
+08:30 Open science course and reproducible papers
+12:10 Research software engineering
+17:10 Convincing a professor to work on software instead of papers
+20:05 The importance of reproducible analysis
+22:16 Why academia is behind on software engineering
+23:54 The problems with open science publishing in academia
+27:15 The importance of standard coding practices
+28:12 How Johanna got into research software engineering
+32:15 Effective ways of learning software engineering skills
+37:01 Providing data and analysis for your project
+38:50 Johanna’s initial experience with software engineering in a project
+42:22 Working with sensitive data and the nuances of publishing it
+45:24 How often Johanna does hackathons, open source, and freelancing
+47:42 Social media as a source of repos and Johanna’s favorite communities
+49:46 Contributing to Git repos
+52:22 Publishing in the open in academia vs industry
+55:12 Johanna’s book and resource recommendations
+58:03 Conclusion
