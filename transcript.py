@@ -82,7 +82,10 @@ def parse_doc(doc):
                 elements.append(element)
                 continue
 
-            assert style == 'normal'
+            if style != 'normal':
+                print('style is not normal:', style)
+                print(line)
+                raise Exception('expecting style to be "normal"')
 
             if after_time == True:
                 after_time = False
