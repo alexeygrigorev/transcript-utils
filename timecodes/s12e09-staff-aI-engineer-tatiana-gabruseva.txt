@@ -1,0 +1,17 @@
+00:00 DataTalks.Club intro
+01:53 Tatiana’s background
+03:24 Going from academia to healthcare to the tech industry
+07:04 What staff engineers do
+14:41 Transferring skills from academia to industry and learning new ones
+17:23 The importance of having mentors
+19:08 Skipping junior and mid-level straight into the staff role
+25:30 Convincing employers that you can take on a lead role
+29:38 Seeing failure as a learning opportunity
+34:40 Preparing for coding interviews
+39:44 Preparing for behavioral and system design interviews
+48:43 The importance of having a network and doing mock interviews
+50:52 How much do staff engineers work with building pipelines, data science, ETC, MPOps, etc.?
+52:19 Context switching
+54:13 Advice for those going from academia to industry
+57:40 The most exciting thing about working as an AI staff engineer
+59:25 Tatiana’s book recommendations
