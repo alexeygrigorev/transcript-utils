@@ -1,0 +1,16 @@
+00:00 DataTalks.Club intro
+02:15 Nadia’s background
+03:36 Academic research in software engineering
+05:46 Design patterns
+06:58 Software engineering for ML systems
+10:54 Problems that people in industry have with software engineering and ML
+13:36 Communication issues and setting requirements
+15:06 Artifact research in open source products
+21:54 Product vs model
+24:03 Nadia’s open source product dataset
+29:42 Failure points in machine learning projects
+33:51 Finding solutions to issues using Nadia’s dataset and experience
+36:28 The problem of siloing data scientists and other structure issues
+42:47 The importance of documentation and checklists
+47:16 Responsible AI
+56:55 How data scientists and software engineers can work in an Agile way
