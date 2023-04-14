@@ -1,0 +1,18 @@
+00:00 DataTalks.Club intro
+01:36 Johannes’s background
+04:33 Johannes’s Open Source Spotlight demos – Refinery and Bricks
+10:14 The difficulties of working with natural language processing (NLP)
+13:22 Incorporating ChatGPT into a process as a heuristic
+18:33 What is Bricks?
+20:22 The process of starting a startup – Kern
+26:22 Making the decision to go with open source
+28:11 Pros and cons of launching as open source
+31:47 Kern’s business model
+38:23 Working with enterprises
+40:21 Johannes as a salesperson
+43:12 The team at Kern
+47:20 Johannes’s role at Kern
+49:51 How Johannes and Henrik separate responsibilities at Kern
+52:40 Working with very niche use cases
+57:02 The short story of how Kern got its funding
+59:58 Johannes’s resource recommendation
