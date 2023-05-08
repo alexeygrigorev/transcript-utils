@@ -1,0 +1,17 @@
+00:00 DataTalks.Club intro
+02:34 Arseny's background
+06:11 Working on machine learning in startups
+07:54 What is Machine Learning System Design?
+10:34 Constraints and requirements
+14:49 Known unknowns vs unknown unknowns (Design stage)
+20:21 Writing a design document
+22:48 Technical problems vs product-oriented problems
+31:42 The solution part of the Design Document
+39:42 What motivated Arseny to write a book on ML System Design
+44:54 Examples of a Design Document in the book
+47:09 The types of readers for ML System Design
+48:27 Working with the co-author
+51:39 Reacting to constraints and feedback when writing a book
+55:48 Arseny's favorite chapter of the book
+58:28 Other resources where you can learn about ML System Design
+1:00:00 Twitter Giveaway
