@@ -1,0 +1,13 @@
+00:00 DataTalks.Club intro
+02:32 Katharine's background
+09:08 Katharine's ML privacy startup
+11:33 GDPR, CCPA, and the “opt-in as the default” approach
+16:24 What is data privacy?
+21:35 Finding Katharine's book – Practical Data Privacy
+22:38 The various definitions of data privacy and “user profiles”
+33:08 Privacy engineering and privacy-enhancing technologies
+35:09 Why data privacy is important
+40:50 What is differential privacy?
+47:00 The importance of keeping privacy in mind when designing systems
+52:35 Data privacy on the example of ChatGPT
+1:01:15 Katharine's resource suggestions for learning about data privacy
