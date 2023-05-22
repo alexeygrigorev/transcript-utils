@@ -1,0 +1,19 @@
+00:00 DataTalks.Club intro
+02:50 Boyan's background
+08:13 What is data strategy?
+10:13 Due diligence and establishing a common goal
+13:28 Designing a data strategy
+18:22 Impact assessment, portfolio management, and DataOps
+23:30 Data products
+24:57 DataOps, Lean, and Agile
+27:18 Data Strategist vs Data Science Strategist
+30:02 The skills one needs to be a data strategist
+36:35 How does one become a data strategist?
+39:09 Data strategist as a translator
+41:31 Transitioning from a Data Strategist role to a CTO
+43:46 Using ChatGPT as a writing co-pilot
+47:20 Using ChatGPT as a starting point
+51:02 How ChatGPT can help in data strategy
+52:44 Pitching a data strategy to a stakeholder
+55:32 Setting baselines in a data strategy
+56:56 Boyan's book recommendations
