@@ -1,0 +1,17 @@
+00:00 DataTalks.Club intro
+02:23 Bart's background
+05:20 What is data governance?
+08:58 Data dictionaries and data lineage
+11:20 Data access management
+14:47 How to learn about data governance
+17:18 What skills are needed to do data governance effectively
+23:03 When an organization needs to start thinking about data governance
+27:49 Good data access management processes
+35:35 Data masking and the importance of automating data access
+37:19 DPO and CISO roles
+42:20 How data access management works with a data mesh approach
+44:55 Avoiding the role explosion problem
+46:42 The importance of data governance integration in DataOps
+50:08 Terraform as a stepping stone to data governance
+53:50 How Raito can help an organization with data governance
+55:56 Open source data governance tools
