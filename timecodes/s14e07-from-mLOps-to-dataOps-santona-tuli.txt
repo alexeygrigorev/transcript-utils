@@ -1,0 +1,16 @@
+00:00 DataTalks.Club intro
+02:32 Santona's background
+07:08 Focusing on data workflows
+10:48 Upsolver vs DBT
+13:25 ML pipelines vs Data pipelines
+18:44 MLOps vs DataOps
+26:43 Tools used for data pipelines and ML pipelines
+29:16 The “modern data stack” and today's data ecosystem
+32:57 Staging the data and the concept of a “lakehouse”
+39:23 Transforming the data after staging
+42:55 What happens after the modeling phase
+44:57 Human-centric vs Machine-centric pipeline
+47:57 Applying skills learned in academia to ML engineering
+52:12 Crafting user personas based on real stories
+56:49 A framework of curiosity
+59:16 Santona's book and resource recommendations
