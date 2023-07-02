@@ -1,0 +1,16 @@
+00:00 DataTalks.Club intro
+02:00 Simon's background
+04:42 What MLOps is and what it isn't
+06:55 Skills needed to build an ML platform that serves 100s of models
+13:50 Ranking the importance of skills
+16:52 The point where you should think about building an ML platform
+21:03 The importance of processes in ML platforms
+25:00 Weighing your options with SaaS platforms
+27:59 The exploratory setup, experiment tracking, and model registry
+31:15 What comes after deployment?
+34:01 Stitching tools together to create an ML platform
+40:43 Keeping data governance in mind when building a platform
+47:08 What comes first – the model or the platform?
+51:41 Do MLOps engineers need to have deep knowledge of how models work?
+54:15 Is API design important for MLOps?
+57:32 Simon's recommendations for furthering MLOps knowledge
