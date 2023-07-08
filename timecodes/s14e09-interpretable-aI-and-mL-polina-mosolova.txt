@@ -1,0 +1,15 @@
+00:00 DataTalks.Club intro
+02:05 Polina's background
+09:19 How common it is for PhD students to build ML pipelines end-to-end
+10:34 Simultaneous PhD and industry experience
+17:57 Support from both the academic and industry sides
+24:38 How common the industrial PhD setup is and how to get into one
+29:52 Organizational trust theory
+34:36 How price relates to trust
+38:19 How trust relates to explainability
+41:54 The importance of actionability
+44:03 Explainability vs interpretability vs actionability
+47:22 Complex glass box models
+52:37 Does the explainability of a model follow explainability?
+55:23 What explainable AI bring to customers and end users
+58:18 Can all trust be turned into KPI?
