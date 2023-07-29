@@ -1,0 +1,16 @@
+00:00 DataTalks.Club intro
+01:45 Meryam's background
+04:41 The constant evolution of startups
+06:42 How Meryam became interested in LLMs
+10:19 What is an LLM (generative vs non-generative models)?
+14:27 Why LLMs are important
+16:19 Open source models vs API models
+23:37 What TitanML does
+26:03 How fine-tuning a model helps in LLM use cases
+31:17 Fine-tuning generative models
+33:04 How generative models change the landscape of human work
+40:46 How to adjust models over time
+47:47 Vector databases and LLMs
+49:44 How to choose an open source LLM or an API
+53:34 Measuring input data quality
+59:08 Meryam's resource recommendations
