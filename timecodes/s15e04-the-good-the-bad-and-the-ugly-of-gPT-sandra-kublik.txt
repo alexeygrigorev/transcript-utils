@@ -1,0 +1,12 @@
+00:00 DataTalks.Club intro
+03:05 Sandra's background
+08:08 Making a YouTube channel to break into the LLM space
+10:00 The business cases for LLMs
+19:22 LLMs as amplifiers
+23:29 The befits of keeping a human in the loop when using LLMs (AI limitations)
+27:56 Using LLMs as assistants
+32:28 Building an app that uses an LLM
+37:13 Prompt whisperers and how to improve your prompts
+51:01 Sandra's 7-day LLM experiment
+58:04 Sandra's LLM content recommendations
+1:00:30 Finding Sandra online
