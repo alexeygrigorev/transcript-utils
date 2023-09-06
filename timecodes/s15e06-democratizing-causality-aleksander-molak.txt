@@ -1,0 +1,15 @@
+00:00 DataTalks.Club intro
+02:06 Aleksander's background
+06:15 Aleksander as a Causal Ambassador
+12:41 Using causality to make decisions
+18:15 Counterfactuals and and Judea Pearl
+20:44 Meta-learners vs classical ML models
+27:52 Average treatment effect
+29:17 Reducing causal bias, the super efficient estimator, and model uplifting
+33:14 Metrics for evaluating a causal model vs a traditional ML model
+38:54 Is the added complexity of a causal model worth implementing?
+44:26 Utilizing LLMs in causal models (text as outcome)
+50:45 Text as treatment and style extraction
+59:33 The viability of A/B tests in causal models
+1:02:38 Graphical structures and nonparametric identification
+1:06:07 Aleksander's resource recommendations
