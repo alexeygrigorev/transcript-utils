@@ -1,0 +1,17 @@
+00:00 DataTalks.Club intro
+03:07 Maria's background
+09:45 Marvelous MLOps
+11:10 Maria's definition of MLOps
+14:45 Alternate team setups without a central MLOps team
+17:55 Pragmatic vs non-pragmatic MLOps
+18:41 Must-have ML tools (categories)
+22:23 Maturity assessment
+24:01 What to start with in MLOps
+28:42 Standardized MLOps
+35:21 Convincing DevOps to implement
+39:29 Understanding what the tools are used for instead of knowing all the tools
+42:53 Maria's next project plans
+45:44 Is LLM Ops a thing?
+49:42 What Ahold Delhaize does
+54:05 Resource recommendations to learn more about MLOps
+57:14 The importance of data engineering knowledge for ML engineers
