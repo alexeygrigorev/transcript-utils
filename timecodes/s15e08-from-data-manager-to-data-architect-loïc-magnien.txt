@@ -1,0 +1,14 @@
+00:00 DataTalks.Club intro
+03:15 Loïc's background
+05:44 Data management
+09:21 Loïc's transition to data engineer
+14:51 Challenges in the transition to data engineering
+22:47 What is a data architect?
+26:21 The output of a data architect's work
+32:26 Establishing metrics and dimensions
+37:10 The importance of communication
+42:31 Setting up best practices for the team
+44:13 Staying relevant and tech-watching
+53:28 Setting up specifications for a pipeline
+56:39 Be agile, create a POC,  iterate ASAP, and build reusable templates
+1:00:51 Reaching out to Loïc for questions
