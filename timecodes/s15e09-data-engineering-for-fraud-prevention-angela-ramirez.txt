@@ -1,0 +1,19 @@
+00:00 DataTalks.Club intro
+02:41 Angela's background
+06:22 Angela's role at Sam's Club
+09:48 The usefulness of knowing ML as a data engineer
+12:48 Angela's career path
+17:18 Transitioning from data analyst to data engineer/system designer
+19:48 Best practices for system design and data engineering
+21:30 Working with document databases
+25:03 Working with network-based databases
+31:56 Detecting fraud with a network-based database
+35:33 Selecting the database type to work with
+38:11 Neo4j vs Postgres
+40:50 The importance of having software engineering knowledge in data engineering
+43:28 Data quality check tooling
+44:41 The greatest challenges in data engineering
+46:56 Debugging and finding the root cause of a failed job
+50:23 What kinds of tools Angela uses on a daily basis
+56:19 Working with external data sources
+59:56 Angela's resource recommendations
