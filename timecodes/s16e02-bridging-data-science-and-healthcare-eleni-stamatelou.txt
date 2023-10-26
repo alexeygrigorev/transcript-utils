@@ -1,0 +1,15 @@
+00:00 DataTalks.Club intro
+01:45 Elena’s background
+04:43 Some of Elena’s past projects
+09:34 Why Elena chose to go into healthcare
+14:19 3D imaging and healthcare metric tracking
+19:00 Making an impact and signal processing
+25:23 The challenges of working in healthcare
+31:10 Jumping over hurdles, gaining trust, and collecting feedback
+33:54 Convincing professionals to try new things
+35:45 How data science will evolve in the healthcare field
+39:37 The issue of automating away human jobs
+43:10 The challenge of data collection and storage in healthcare
+46:32 The importance of gradual and cyclical change
+49:56 Data engineering in healthcare
+53:31 Getting into healthcare as a data scientist
