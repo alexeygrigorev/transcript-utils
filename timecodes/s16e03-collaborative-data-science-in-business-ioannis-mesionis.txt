@@ -1,0 +1,15 @@
+00:00 DataTalks.Club intro
+02:34 Ioannis’ background
+07:23 Ioannis’ role as Lead Data Scientist
+11:15 The importance of having business knowledge
+14:00 Getting projects to production
+20:54 The inception phase
+22:48 Agile practices
+25:17 The pilot phase
+28:18 Other departments at EasyJet and competitors’ business models
+30:21 Utilizing Scrum practices in data science (the importance of MVPs)
+35:38 A typical sprint at EasyJet and other Agile practices
+41:33 Explaining results to non-technical people (the importance of soft skills)
+48:38 Ioannis’ experience with the MLOps Zoomcamp
+53:33 On Evidently
+57:09 Ioannis’ resource recommendations
