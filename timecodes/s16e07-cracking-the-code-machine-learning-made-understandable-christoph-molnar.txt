@@ -1,0 +1,21 @@
+00:00 DataTalks.Club intro
+01:32 Christoph’s background
+06:37 Kaggle and other competitions
+07:50 How Christoph became interested in interpretable machine learning
+09:27 Interpretability vs Accuracy
+11:59 Christoph’s current competition engagement
+13:57 How Christoph chooses topics for books
+15:33 Why Christoph started the writing journey with a book
+17:07 Self-publishing vs via a publisher
+18:58 Christoph’s other books
+20:27 What is conformal prediction?
+23:44 Christoph’s book on SHAP
+26:17 Explainable AI vs Interpretable AI
+30:00 Working alone vs with other people
+33:07 Christoph’s other engagements and how to stay hands-on
+36:21 Keeping a logbook
+42:21 Does one have to be an expert on the topic to write a book about it?
+44:51 Writing in the open and other feedback gathering methods
+48:36 Advice for those who want to be technical writers
+53:49 Self-publishing tools
+56:16 Finding Christoph online
