@@ -1,0 +1,14 @@
+00:00 DataTalks.Club intro
+02:38 Atita’s background
+09:18 How NLP relates to search
+11:29 Atita’s experience with Lucidworks and OpenSource Connections
+17:01 Atita’s experience with Qdrant and vector databases
+20:27 Utilizing vector search
+23:00 Major changes to search Atita has noticed throughout her career
+30:38 RAG (Retrieval-Augmented Generation)
+35:49 Building a chatbot out of transcripts with LLMs
+38:24 Ingesting the data and evaluating the results
+48:09 Keeping humans in the loop
+52:07 Application of vector databases for machine learning
+54:54 Collaborative filtering
+57:50 Atita’s resource recommendations
