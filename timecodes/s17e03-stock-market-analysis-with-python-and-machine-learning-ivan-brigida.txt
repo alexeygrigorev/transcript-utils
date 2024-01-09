@@ -1,0 +1,13 @@
+00:00 DataTalks.Club intro
+03:53 Ivan’s background
+09:25 How Ivan became interested in investing
+13:15 Getting financial data to run simulations
+17:28 Open, High, Low, Close, Volume
+22:14 Risk management strategy
+26:48 Testing your trading strategies
+38:24 Sticking to your strategy
+40:51 Important metrics and remembering about trading fees
+45:23 Important features
+51:46 Deployment
+55:05 How DataTalks.Club courses helped Ivan
+57:29 Ivan’s site and course sign-up
