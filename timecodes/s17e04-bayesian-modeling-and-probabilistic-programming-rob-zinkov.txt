@@ -1,0 +1,12 @@
+00:00 DataTalks.Club intro
+02:46 Rob’s background
+06:40 Going from software engineering to Bayesian modeling
+14:43 Frequentist vs Bayesian modeling approach
+24:29 About integrals
+28:35 Probabilistic programming and samplers
+33:43 MCMC and Hakaru
+39:28 Language vs library
+50:29 Encoding dependencies and relationships into a model
+55:24 Stan, HMC (Hamiltonian Monte Carlo) , and NUTS
+59:46 Sources for learning about Bayesian modeling
+1:05:32 Reaching out to Rob
