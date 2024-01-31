@@ -1,0 +1,15 @@
+00:00 DataTalks.Club intro
+02:52 Nemanja’s background
+08:18 When Nemanja first work as a data person
+10:35 Typical problems that ML Ops folks solve in the financial sector
+14:57 What Nemanja currently does as an ML Engineer
+18:52 The obstacle of implementing new things in financial sector companies
+22:25 Going through the hurdles of DevOps
+27:51 Working with an on-premises cluster
+31:02 “ML Ops on a Shoestring” (You don’t need fancy stuff to start w/ ML Ops)
+35:57 Tactical solutions
+43:39 Platform work and code work
+45:04 Programming and soft skills needed to be an ML Engineer
+48:55 The challenges of transitioning from and electrical engineering and sales to ML Ops
+52:51 The ML Ops tech stack for beginners
+56:19 Working on projects to determine which skills you need
