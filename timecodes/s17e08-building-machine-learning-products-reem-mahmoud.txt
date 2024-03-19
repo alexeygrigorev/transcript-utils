@@ -1,0 +1,12 @@
+00:00 DataTalks.Club intro
+04:08 Reem’s background
+08:31 Context-aware sensing and transfer learning
+11:35 Shifting focus from PhD to industry
+14:20 Reem’s experience with startups and dealing with prejudices towards PhDs
+19:16 AI interviewing solution
+23:48 How candidates react to getting interviewed by an AI avatar
+28:39 End-to-end overview of a machine learning project
+43:06 The pitfalls of using LLMs in your process
+53:20 Mitigating biases
+58:54 Addressing specific requirements for specific roles
+1:02:50 Reem’s resource recommendations
