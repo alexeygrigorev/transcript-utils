@@ -1,0 +1,17 @@
+00:00 DataTalks.Club intro
+02:29 Daniel’s background
+09:04 Search vs information retrieval system
+11:29 Vector search
+17:21 Index building
+20:00 Increased complexity in indexing
+29:00 Compute in relation to vectors
+33:13 Embedding strategies and hybrid search
+39:53 Embeddings in relation to queries and vectors
+44:36 Knowing when to implement weights and biases
+46:18 LLM implementation strategies
+49:19 Transforming different types of input into vectors
+52:35 Choosing vector database vendors
+54:56 Just throwing everything at Lucene
+57:48 Choosing vendors for your use case
+1:01:25 In the end, the main metric is USD
+1:06:19 Closing
