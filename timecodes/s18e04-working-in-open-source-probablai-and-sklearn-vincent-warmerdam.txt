@@ -1,0 +1,15 @@
+00:00 DataTalks.Club intro
+04:00 Vincent’s Background
+08:33 SciKit Learn’s History and Company Formation
+14:01 Maintaining and Transitioning Open Source Projects
+21:49 Teaching and Learning Through Open Source
+23:29 Role of Developer Relations and Content Creation
+25:46 Teaching Through Calm Code and The Importance of Content Creation
+29:25 Current Projects and Future Plans for Calm Code
+32:18 Data Processing Tricks and The Importance of Innovation
+35:36 Learning the Fundamentals and Changing the Way You See a Problem
+38:26 Dev Rel and Core Dev in One
+42:13 Why :probabl. Needs a Dev Rel
+48:27 Exploration of Skrub and Advanced Data Processing
+53:36 Personal Insights on SciKit Learn and Industry Trends
+57:24 Vincent’s Upcoming Projects
