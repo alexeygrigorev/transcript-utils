@@ -1,0 +1,13 @@
+00:00 DataTalks.Club intro
+02:57 Anahita's Background
+05:37 Mechanical Engineering and Applied Mechanics
+08:05 Finite Element Analysis vs. Machine Learning
+09:08 Optimization and Semantic Reporting
+15:58 Application of Knowledge Graphs in Research
+20:32 Graphs vs Tabular Data
+26:15 Computational graphs
+28:00 Graph Data Science and Graph Machine Learning
+33:43 Combining Knowledge Graphs and Large Language Models (LLMs)
+44:13 Practical Applications and Projects
+54:18 Challenges and Learnings
+57:46 Anahita’s Recommendations
