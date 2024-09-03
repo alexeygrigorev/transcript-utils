@@ -1,0 +1,14 @@
+00:00 DataTalks.Club intro
+02:12 DataOps and Christopher's background
+06:01 Early challenges in data management and the pre-Hadoop era
+08:29 Evolution of DevOps and its influence on data practices
+11:53 What is DataOps and its importance in the industry
+18:46 The current state of DataOps and its evolution over the past two years
+23:56 Systems thinking in DataOps and managing day one vs. day two and day three
+30:55 Implementing robust systems for continuous integration and delivery in data science
+34:13 Reducing waste and inefficiency through DataOps processes
+39:04 Challenges in adoption and the impact of AI tools like ChatGPT
+42:39 Automating deployment and using CI/CD to minimize errors
+50:29 Shifting focus from development to production in DataOps
+52:42 Importance and role of Kubernetes and data versioning best practices
+58:15 The role of mindset and culture in reducing turnover and improving DataOps practices
