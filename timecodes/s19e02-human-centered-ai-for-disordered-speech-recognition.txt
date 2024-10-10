@@ -1,0 +1,27 @@
+00:00 DataTalks.Club intro
+08:06 Background and career journey of Katarzyna
+09:06 Transition from linguistics to computational linguistics
+11:38 Merging linguistics and computer science
+15:25 Understanding phonetics and morpho-syntax
+17:28 Exploring morpho-syntax and its relation to grammar
+20:33 Connection between phonetics and speech disorders
+24:41 Improvement of voice recognition systems
+27:31 Overview of speech recognition technology
+30:24 Challenges of ASR systems with atypical speech
+30:53 Strategies for improving recognition of disordered speech
+37:07 Data augmentation for training models
+40:17 Transfer learning in speech recognition
+42:18 Challenges of collecting data for various speech disorders
+44:31 Stammering and its connection to fluency issues
+45:16 Polish consonant combinations and pronunciation challenges
+46:17 Use of Amazon Transcribe for generating podcast transcripts
+47:28 Role of language models in speech recognition
+49:19 Contextual understanding in speech recognition
+51:27 How voice recognition systems analyze utterances
+54:05 Personalization of ASR models for individuals
+56:25 Language disorders and their impact on communication
+58:00 Applications of speech recognition technology
+1:00:34 Challenges of personalized and universal models
+1:01:23 Voice recognition in automotive applications
+1:03:27 Humorous voice recognition failures in cars
+1:04:13 Closing remarks and reflections on the discussion
