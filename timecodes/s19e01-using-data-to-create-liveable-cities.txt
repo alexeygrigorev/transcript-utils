@@ -1,0 +1,22 @@
+00:00 DataTalks.Club intro
+01:56 Using data to create livable cities
+02:52 Rachel's career journey: from geography to urban data science
+04:20 What does a transport scientist do?
+05:34 Short-term and long-term transportation planning
+06:14 Data sources for transportation planning in Singapore
+08:38 Rachel's motivation for combining geography and data science
+10:19 Urban design and its connection to geography
+13:12 Defining a livable city
+15:30 Livability of Singapore and urban planning
+18:24 Role of data science in urban and transportation planning
+20:31 Predicting travel patterns for future transportation needs
+22:02 Data collection and processing in transportation systems
+24:02 Use of real-time data for traffic management
+27:06 Incorporating generative AI into data engineering
+30:09 Data analysis for transportation policies
+33:19 Technologies used in text-to-SQL projects
+36:12 Handling large datasets and transportation data in Singapore
+42:17 Generative AI applications beyond text-to-SQL
+45:26 Publishing public data and maintaining privacy
+45:52 Recommended datasets and projects for data engineering beginners
+49:16 Recommended resources for learning urban data science
