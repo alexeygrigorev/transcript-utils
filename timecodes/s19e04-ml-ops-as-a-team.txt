@@ -1,0 +1,26 @@
+00:00 DataTalks.Club intro
+02:34 Career journey and transition into MLOps
+08:41 Dutch agriculture and its challenges
+10:36 The concept of "technical debt" in MLOps
+13:37 Trade-offs in MLOps: moving fast vs. doing things right
+14:05 Building teams and the role of coordination in MLOps
+16:58 Key roles in an MLOps team: evangelists and tech translators
+23:01 Role of the MLOps team in an organization
+25:19 How MLOps teams assist product teams
+27:56 Standardizing practices in MLOps
+32:46 Getting feedback and creating buy-in from data scientists
+36:55 The importance of addressing pain points in MLOps
+39:06 Best practices and tools for standardizing MLOps processes
+42:31 Value of data versioning and reproducibility
+44:22 When to start thinking about data versioning
+45:10 Importance of data science experience for MLOps
+46:06 Skill mix needed in MLOps teams
+47:33 Building a diverse MLOps team
+48:18 Best practices for implementing MLOps in new teams
+49:52 Starting with CI/CD in MLOps
+51:21 Key components for a complete MLOps setup
+53:08 Role of package registries in MLOps
+54:12 Using Docker vs. packages in MLOps
+57:56 Examples of MLOps success and failure stories
+1:00:54 What MLOps is in simple terms
+1:01:58 The complexity of achieving easy deployment, monitoring, and maintenance
