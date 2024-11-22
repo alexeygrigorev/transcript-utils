@@ -1,0 +1,13 @@
+00:00 DataTalks.Club intro
+00:00 Large Hadron Collider and Mentorship
+02:35 Career overview and transition from physics to data science
+07:02 Working at the Large Hadron Collider
+09:19 How particles collide and the role of detectors
+11:03 Data analysis challenges in particle physics and data science similarities
+13:32 Team structure at the Large Hadron Collider
+20:05 Explaining the connection between particle physics and data science
+23:21 Software engineering practices in particle physics
+26:11 Challenges during interviews for data science roles
+29:30 Mentoring and offering advice to job seekers
+40:03 The STAR method and its value in interviews
+50:32 Paid vs unpaid mentorship and finding the right fit
