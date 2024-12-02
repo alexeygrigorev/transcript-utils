@@ -1,0 +1,16 @@
+00:00 DataTalks.Club intro
+07:15 Career journey and shift to machine learning
+11:14 Internship at INRIA and working on cancer research
+14:25 AI research and the role of INRIA in AI and machine learning
+15:43 Freelancing as a machine learning engineer
+16:57 Transition from research to freelancing
+22:07 Finding the first freelance client
+26:25 Involvement in open-source projects and community courses
+30:12 Contributing to Hugging Face's community course on computer vision
+34:11 Finding open-source project opportunities
+40:08 Green space segmentation
+45:24 Collaborating with experts in open-source projects
+51:28 Using tools like ChatGPT in learning
+54:06 Women in data and the Data Like Substack
+57:27 Substack interviews with women in data science
+1:00:02 Empowering stories of women in data
